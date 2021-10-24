@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProceduralGenerator", "ProceduralGenerator\ProceduralGenerator.csproj", "{0AE0B750-196C-4F33-B0B2-01EA8BA6BFD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AE0B750-196C-4F33-B0B2-01EA8BA6BFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE0B750-196C-4F33-B0B2-01EA8BA6BFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE0B750-196C-4F33-B0B2-01EA8BA6BFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE0B750-196C-4F33-B0B2-01EA8BA6BFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFA3BD28-0F6E-4EDB-AAAC-75AF1AD401E6}
+	EndGlobalSection
+EndGlobal
